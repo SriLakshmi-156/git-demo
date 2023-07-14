@@ -1,2 +1,3 @@
-console.log("Hii!!")
-console.log("hello")
+function test(){
+    console.log("feature")
+}
